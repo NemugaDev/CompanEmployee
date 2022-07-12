@@ -1,0 +1,5 @@
+c:\users\morgan\documents\visual studio 2013\Projects\CompanEmployee\CompanEmployee\obj\Debug\CompanEmployee.csprojResolveAssemblyReference.cache
+c:\users\morgan\documents\visual studio 2013\Projects\CompanEmployee\CompanEmployee\bin\Debug\CompanEmployee.dll
+c:\users\morgan\documents\visual studio 2013\Projects\CompanEmployee\CompanEmployee\bin\Debug\CompanEmployee.pdb
+c:\users\morgan\documents\visual studio 2013\Projects\CompanEmployee\CompanEmployee\obj\Debug\CompanEmployee.dll
+c:\users\morgan\documents\visual studio 2013\Projects\CompanEmployee\CompanEmployee\obj\Debug\CompanEmployee.pdb
